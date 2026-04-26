@@ -3,6 +3,7 @@
 A full-stack Job / Internship Tracker web application to manage job applications efficiently.
 
 🌐 **Live Demo:** https://job-tracker-hazel-ten.vercel.app/
+
 🔗 **Backend API:** https://job-tracker-backend-on0u.onrender.com
 
 ---
